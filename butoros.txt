@@ -1,0 +1,5 @@
+Butor{gyarto=[Boss], anyag=[fa], ar=220000, kategoria=Luxus}
+Butor{gyarto=[Boss], anyag=[fa], ar=220000, kategoria=Luxus}
+Butor{gyarto=[IKEA], anyag=[műanyag], ar=10000, kategoria=OLCSO}, Szek{hattamlaTipusa='Magas'}
+Butor{gyarto=[Karma], anyag=[fa], ar=100, kategoria=Luxus}
+Butor{gyarto=[VAnHAn], anyag=[fém], ar=5400, kategoria=Luxus}
